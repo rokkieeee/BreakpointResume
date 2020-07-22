@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D7A1CD82-691C-435C-AABC-7A589D4AA675"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D4F0D33-00A6-4C84-9021-2DFB3C1EE7D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "-URLSession:task:didCompleteWithError:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBF68482-6139-461B-AEA5-EE67E2575DE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "-URLSession:downloadTask:didResumeAtOffset:expectedTotalBytes:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27718B21-9EBA-4411-97C3-3A7C0DDD59F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-willOut"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5AEE353-A27F-4081-9566-8BB811057D31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;/AppDelegate.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "-application:handleEventsForBackgroundURLSession:completionHandler:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "-cancelDownTask"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A - ee93dd5043b4cd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController cancelDownTask]"
+                  moduleName = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangxiaoxu/Desktop/ZXX%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%AD%A6%E4%B9%A0/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A - 4cad1e8ccc576c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__32-[ViewController cancelDownTask]_block_invoke"
+                  moduleName = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangxiaoxu/Desktop/ZXX%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%AD%A6%E4%B9%A0/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A - 4cd9b092e95beb59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_e8_32s"
+                  moduleName = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangxiaoxu/Desktop/ZXX%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%AD%A6%E4%B9%A0/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46003E1D-3236-4AEF-BC1D-FAFDB278CD52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "-cancelDownTask"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
