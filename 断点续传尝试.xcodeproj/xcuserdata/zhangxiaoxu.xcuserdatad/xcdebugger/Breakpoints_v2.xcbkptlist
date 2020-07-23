@@ -84,14 +84,14 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A - ee93dd5043b4cd2"
+                  uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A - 71d7c3bcd2d8b01"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "-[ViewController cancelDownTask]"
                   moduleName = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhangxiaoxu/Desktop/ZXX%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%AD%A6%E4%B9%A0/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/ViewController.m"
+                  urlString = "file:///Users/zhangxiaoxu/Desktop/BreakpointResume/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/ViewController.m"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "50"
@@ -99,14 +99,14 @@
                   offsetFromSymbolStart = "16">
                </Location>
                <Location
-                  uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A - 4cad1e8ccc576c6"
+                  uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A - d3e900605d3b115"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "__32-[ViewController cancelDownTask]_block_invoke"
                   moduleName = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhangxiaoxu/Desktop/ZXX%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%AD%A6%E4%B9%A0/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/ViewController.m"
+                  urlString = "file:///Users/zhangxiaoxu/Desktop/BreakpointResume/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/ViewController.m"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "50"
@@ -114,14 +114,14 @@
                   offsetFromSymbolStart = "12">
                </Location>
                <Location
-                  uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A - 4cd9b092e95beb59"
+                  uuid = "2AB56D31-0F00-476C-AEA7-752C64B3C11A - 452df17c204d2c8a"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "__destroy_helper_block_e8_32s"
                   moduleName = "&#x65ad;&#x70b9;&#x7eed;&#x4f20;&#x5c1d;&#x8bd5;"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhangxiaoxu/Desktop/ZXX%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%AD%A6%E4%B9%A0/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/ViewController.m"
+                  urlString = "file:///Users/zhangxiaoxu/Desktop/BreakpointResume/%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%B0%9D%E8%AF%95/ViewController.m"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "50"

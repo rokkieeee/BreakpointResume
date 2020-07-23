@@ -24,6 +24,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"aaa");
     // Do any additional setup after loading the view.
 //    self.movieStream = [NSOutputStream outputStreamToFileAtPath:[self getPath] append:YES];
     NSLog(@"%d",_isBreakPoint);
