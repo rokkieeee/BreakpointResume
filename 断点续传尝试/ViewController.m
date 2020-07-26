@@ -27,7 +27,7 @@
     NSLog(@"aaa");
     // Do any additional setup after loading the view.
 //    self.movieStream = [NSOutputStream outputStreamToFileAtPath:[self getPath] append:YES];
-    NSLog(@"%daaaa",_isBreakPoint);
+    NSLog(@"%dccc",_isBreakPoint);
     //由于第一次进来需要调loadMoview方法，所以将_isBreakPoint设为yes
     _isBreakPoint = YES;
 //    这里是关键，配置相同的session系统会去检测这个session是否之前是否因为意外中断了，如果检测到了会调用这个session的didCompleteWithError的代理方法，在这个方法中我们可以获得上次下载了多少data（这里需要后台支持range方式传递，并且只能是get方式，并且数据没发生变化）。然后拿到data后调用downloadtast的downloadTaskWithResumeData方法接着下载
